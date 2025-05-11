@@ -1,0 +1,55 @@
+Hello and thanks a lot for downloading my hud.		==============================
+													feshud v0.6.8 [October 15th, 2022]
+													==============================	
+* Make sure to save a copy of the Hud before you customize it!
+
+=====================
+'--- Installation---'
+				
+				* Unzip feshud-master.zip (use winRAR or 7zip) 
+				
+				Now should you have:
+				
+				feshud-master
+				├── 4x3
+				└── 16x9
+				 
+				Open one of these folders relying on your aspect ratio!
+				
+				> Example < [16x9: 1920x1080 or 1280x720] [4x3: 1280x1024 or 1280x960]
+
+
+				
+				*** Do NOT put the 4x3 folder or 16x9 folder in your custom folder as the Hud wont work this way! ***
+				
+				
+				* Put the Hud into your 'custom' folder and ensure that the final file structure should resembles the following:
+
+				\Steam\steamapps\common\Team Fortress 2\
+				
+				tf
+				└── custom
+					└── feshudv0.6.8
+						├── materials
+						├── resource
+						├── scripts
+						├── sound
+						└── info.vdf
+
+				Recommended resolution on 4x3 is 1280x960. Some things might be out of position on other 4x3 resolutions
+				Recommended resolution on 16x9 is 1920x1080. Some things might be out of position on other 16x9 resolutions
+===============
+'--- Fonts ---'
+
+				Install every font used by the hud to make sure that the hud will be working correctly. (Select all and rightclick to install)
+				Fonts are located here: 
+
+				feshudv0.6.8
+				└── resource
+					└── fonts
+
+				* The in-game font might not being displayed correctly if you don't do this!
+=================
+
+'--- fstiv_ ---'
+https://steamcommunity.com/id/fstiv_/
